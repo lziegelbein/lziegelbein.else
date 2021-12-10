@@ -1,16 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
-</head>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>My Hobbies</h1>
+  <p>I <i>love</i> to spend hours on sites like these:.</p>
 
 </body>
 </html>
