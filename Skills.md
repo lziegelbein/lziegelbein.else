@@ -8,5 +8,8 @@
 
 <p>1. Proficient in C </p>
 <p>2. Proficient in Java </p>
+<p>3. Excellent in Python </p>
+
+  <h3>Soft Skills </h3>
 </body>
 </html>
