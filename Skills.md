@@ -5,8 +5,8 @@
 
   <table>
   <tr>
-    <th>Coding Skills</th>
-    <th>Soft Skillst</th>
+    <th><b>Coding Skills</b></th>
+    <th><b>Soft Skillst</b></th>
   </tr>
   <tr>
     <td>Proficient in C</td>
