@@ -2,16 +2,9 @@
 <html>
 <head>
 <style>
-h1 {
-  color: blue;
-  font-family: verdana;
-  font-size: 300%;
-}
-p {
-  color: red;
-  font-family: courier;
-  font-size: 160%;
-}
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
 </style>
 </head>
 <body>
