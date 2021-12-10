@@ -7,7 +7,7 @@
 
 <p>My name is Lucas Ziegelbein and this is my final project.</p>
 
-<p><a href="">Skills</a>
+<p><a href="https://github.com/lziegelbein/lziegelbein.github.io/blob/main/Skills.md">Skills</a>
 
 </body>
 </html>
