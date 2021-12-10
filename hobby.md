@@ -4,7 +4,7 @@
 
 <h1>My Hobbies</h1>
   <h3>I <i>love</i> to spend hours on sites like these:</h3>
-  <p><a href="twtich.tv">Twitch</a></p>
+  <p><a href="https://www.netflix.com/browse">Netflix</a></p>
  
 
 </body>
