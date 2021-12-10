@@ -15,6 +15,6 @@
   <p>1. Communication </p>
   <p>2. Accountability </p>
   
-  <p><a href="" target="_blank">Back to Home</a></p>
+  <p><a href="https://github.com/lziegelbein/lziegelbein.github.io/blob/main/README.md" target="_blank">Back to Home</a></p>
 </body>
 </html>
