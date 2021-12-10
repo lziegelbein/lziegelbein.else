@@ -6,9 +6,10 @@
 <p>#include <stdio.h>{</br>
   <br>int main() {</br>
 <br>// printf() displays the string inside quotation</br>
-<br>printf("Hello, World!");</br>
+<br>printf("<p style="color:red;">Hello, World!");</br>
 <br>return 0;</br>
 <br>}</p></br>
 
 </body>
 </html>
+<p style="color:red;">I am red</p>
