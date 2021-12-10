@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Final Project</title>
+Final Project: My Website
 
 </head>
 
