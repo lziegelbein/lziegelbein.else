@@ -4,9 +4,9 @@
 
 <h1>Skills</h1>
 
-<h3>My coding skills </h3>
+<h3>My skills in coding </h3>
 
-<p><a href="">Skills</a>
-
+<p>1. Proficient in C </p>
+<p>2. Proficient in Java </p>
 </body>
 </html>
