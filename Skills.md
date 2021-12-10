@@ -10,7 +10,6 @@
   </tr>
   <tr>
     <td>Proficient in C</td>
-    <td>Proficient in Java</td>
     <td>Excellent in Python</td>
   </tr>
   <tr>
