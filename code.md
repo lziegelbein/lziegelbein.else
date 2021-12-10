@@ -2,11 +2,11 @@
 <html>
 <body>
 
-<h1>A sample of my codes</h1>
+<h1>style="color:red;">A sample of my codes</h1>
 <p>#include <stdio.h>{</br>
   <br>int main() {</br>
 <br>// printf() displays the string inside quotation</br>
-<br>printf("<p style="color:red;">Hello, World!");</br>
+<br>printf("Hello, World!");</br>
 <br>return 0;</br>
 <br>}</p></br>
 
