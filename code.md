@@ -3,12 +3,12 @@
 <body>
 
 <h1>A sample of my codes</h1>
-<p>#include <stdio.h>
-int main() {
-// printf() displays the string inside quotation
-printf("Hello, World!");
-return 0;
-}</p>
+<p>#include <stdio.h>{</br>
+  <br>int main() {</br>
+<br>// printf() displays the string inside quotation{</br>
+<br>printf("Hello, World!");{</br>
+<br>return 0;{</br>
+<br>}</p>{</br>
 
 </body>
 </html>
