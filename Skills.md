@@ -15,5 +15,6 @@
   <p>1. Communication </p>
   <p>2. Accountability </p>
   
+  <p><a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a></p>
 </body>
 </html>
